@@ -39,3 +39,5 @@ Regression models are built and evaluated for predicting ESI values.
 Conclusion
 
 This collaborative effort aims to contribute to the field of exoplanet analysis by combining machine learning techniques with astronomical data. The code and analysis provided here offer insights into the potential habitability of exoplanets and their Earth Similarity Index.
+
+This project was part of the course Data Mining Techniques at the Vrije Universiteit Amsterdam (VU).
